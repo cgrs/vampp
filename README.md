@@ -1,6 +1,6 @@
 # VAMPP (XAMPP on Vagrant)
 
-Did you check out my project [`dampp`](https://bitbucket.org/cgrs/dampp)?
+Did you check out my project [`dampp`](https://github.com/cgrs/dampp)?
 Well, this is the same thing, but Vagrant-powered.
 
 ## Features
